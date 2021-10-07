@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IEFsaWJhYmE=?=
+From: django@geekshop.local
+To: ali@baba.com
+Date: Thu, 07 Oct 2021 22:34:02 -0000
+Message-ID: <163364604242.15636.2611502502394218494@DESKTOP-54LPG9P>
+
+Для подтверждения учетной записи Alibaba на портале     http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/ali@baba.com/d102d7286f96bfdff94e6d4a0f27d37cc242e2ea/
+-------------------------------------------------------------------------------
