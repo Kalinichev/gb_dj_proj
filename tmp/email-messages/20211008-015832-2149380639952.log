@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IHQ1?=
+From: django@geekshop.local
+To: 1@1.ru
+Date: Thu, 07 Oct 2021 22:58:32 -0000
+Message-ID: <163364751221.13652.16159756560974827976@DESKTOP-54LPG9P>
+
+Для подтверждения учетной записи t5 на портале     http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/1@1.ru/2323598a17ddbe1ede38842c075be522e663028c/
+-------------------------------------------------------------------------------
