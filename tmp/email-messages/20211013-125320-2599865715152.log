@@ -1,0 +1,15 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IHRlc3Qy?=
+From: django@geekshop.local
+To: test2@test.ru
+Date: Wed, 13 Oct 2021 09:53:20 -0000
+Message-ID: 
+ <163411880033.684.4600209402245674125@Kalinichev-P.office.kontur-niirs.ru>
+
+Для подтверждения учетной записи test2 на портале     http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/test2@test.ru/efe8ca7f1ed74a49e5b7189839007a4a49af8308/
+-------------------------------------------------------------------------------
